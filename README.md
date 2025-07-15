@@ -119,7 +119,7 @@ This project uses machine learning to predict bank loan approval status by analy
 
 ## 👨‍💻 Author
 
-**Your Name**  
+**Vedam Venkata Sarma**  
 B.Tech Final Year – CSE (Data Science)  
 Passionate about Data Science, Web Development, and AIML  
 📬 _Looking for career opportunities in the same fields_  
